@@ -237,3 +237,6 @@ This repository serves as the official landing page for Xara 3D Maker. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Xara 3D Maker today!**
+
+---
+**Last updated:** 2026-09-11 14:51:50 UTC
