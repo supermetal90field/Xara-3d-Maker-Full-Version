@@ -239,4 +239,4 @@ This repository serves as the official landing page for Xara 3D Maker. The softw
 **Get the most recent version of Xara 3D Maker today!**
 
 ---
-**Last updated:** 2026-09-25 01:11:32 UTC
+**Last updated:** 2026-09-25 07:14:04 UTC
